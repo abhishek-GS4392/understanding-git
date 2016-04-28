@@ -1,2 +1,2 @@
 hi testing
-updated in working directory
+updated @server
